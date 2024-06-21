@@ -1,0 +1,3 @@
+/home/colin/live-transport-network-monitor/CMakeFiles/live-transport-network-monitor.dir
+/home/colin/live-transport-network-monitor/CMakeFiles/edit_cache.dir
+/home/colin/live-transport-network-monitor/CMakeFiles/rebuild_cache.dir

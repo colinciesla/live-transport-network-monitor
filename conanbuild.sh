@@ -1,1 +1,0 @@
-. "/home/colin/live-transport-network-monitor/conanbuildenv-release-x86_64.sh"
